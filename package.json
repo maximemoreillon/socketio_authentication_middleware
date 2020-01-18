@@ -1,0 +1,9 @@
+{
+  "name": "@moreillon/socketio_authentication_middleware",
+  "version": "0.0.1",
+  "description": "A simple authentication middleware for socketio",
+  "main": "socketio_authentication_middleware.js",
+  "dependencies": {
+
+  }
+}
